@@ -10,8 +10,6 @@
 - 💬 Ask me about **Ethical Hacking and Network security**
 
 - 📫 How to reach me **mohamedjouili2015@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

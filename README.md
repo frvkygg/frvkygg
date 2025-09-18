@@ -3,12 +3,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [ataa.deadsec](ataa.deadsec)
-
-- 📝 I regularly write articles on [ataa.deadsec/blog](ataa.deadsec/blog)
-
-- 💬 Ask me about **Ethical Hacking and Network security**
-
 - 📫 How to reach me **mohamedjouili2015@gmail.com**
 <p align="left">
 </p>
